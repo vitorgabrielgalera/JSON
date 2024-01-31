@@ -1,0 +1,17 @@
+{
+    "Giovana": {
+        "idade": 20,
+        "curso": "Sistemas de Informação",
+        "semestre": 4
+    },
+    "Geoge": {
+        "idade": 22,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "semestre": 2
+    },
+    "Vitor": {
+        "idade": "14",
+        "curso": "Python",
+        "semestre": "3"
+    }
+}
